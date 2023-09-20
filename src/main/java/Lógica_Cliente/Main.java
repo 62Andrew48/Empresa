@@ -23,7 +23,7 @@ public class Main {
         String nombre = "";
         int cédula = 0;
         int año_de_nacimiento = 0;
-        int Año_Actual = 2023;
+        int Año_Actual = 2020;
         
         //Creación de objetos
         Persona objpersona = new Persona ();
